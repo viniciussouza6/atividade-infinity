@@ -12,4 +12,4 @@ const contarVogais =(texto) => {
         }
     }
 }
-contarVogais('amora')
+contarVogais('amora')as
